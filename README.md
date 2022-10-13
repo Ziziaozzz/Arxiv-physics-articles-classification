@@ -24,7 +24,8 @@ https://www.coursera.org/projects/sentiment-analysis-bert
 ```
 
 ## Results
-
+[Training with models using sklearn](https://github.com/Ziziaozzz/Arxiv-physics-articles-classification/blob/main/Arxiv%20NLP_sklearn.ipynb)
+[Training with BERT transformer model](https://github.com/Ziziaozzz/Arxiv-physics-articles-classification/blob/main/Arxiv%20NLP_BERT.ipynb)
 
 ## Findings
 The articles in the subfields of “astrophysics” and “high energy physics” have higher chance to be correctly classified (∼35% higher f1-score than average). Maybe because they include more distinct terms compared to the other subfields.
