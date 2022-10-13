@@ -24,7 +24,7 @@ https://www.coursera.org/projects/sentiment-analysis-bert
 ```
 
 ## Results
-[Training with models using sklearn](https://github.com/Ziziaozzz/Arxiv-physics-articles-classification/blob/main/Arxiv%20NLP_sklearn.ipynb)
+[Training with models using sklearn](https://github.com/Ziziaozzz/Arxiv-physics-articles-classification/blob/main/Arxiv%20NLP_sklearn.ipynb) 
 [Training with BERT transformer model](https://github.com/Ziziaozzz/Arxiv-physics-articles-classification/blob/main/Arxiv%20NLP_BERT.ipynb)
 
 ## Findings
